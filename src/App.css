@@ -1,0 +1,74 @@
+.app-grid {
+  margin: 0 auto;
+  max-width: 800px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+  padding: 20px;
+}
+
+.table_container {
+  margin-top: 30px;
+  margin-bottom: 150px;
+}
+.table_container h2 {
+  color: #464646;
+}
+.table_container {
+  text-align: center;
+}
+.time_picker {
+  margin-top: 20px;
+  width: auto;
+  text-align: center;
+}
+
+.app {
+  background-color: #fafafa;
+  margin: 0 auto;
+  max-width: 100%;
+}
+#message {
+    padding: 12px 12px;
+  width: 260px; 
+  font-size: 18px;
+  border: solid 1px #e0e0e0;
+  height: 50px;
+  border-radius: 4px;
+}
+
+.Autocompleteage input[type=text] :focus{
+    border: 3px solid #1613ad;
+}
+.time-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.item-time{
+    margin-top: 40px;
+   
+
+}
+
+
+.card-serch {
+  padding: 20px;
+  margin-top: 20px;
+  height: auto;
+  border-radius: 5px;
+  border: 1px solid #c0c0c0;
+}
+.Autocomplete {
+  margin-top: 40px;
+}
+
+
+.container {
+  background-color: #fff;
+  padding: 16px;
+  margin: 0 auto;
+  max-width: 960px;
+}
+
